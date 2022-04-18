@@ -1,3 +1,3 @@
 function abcd() {
-    console.log();
+    
 }
